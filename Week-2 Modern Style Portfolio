@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My Styled Portfolio - Week 2</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to My Portfolio</h1>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hello! I am a passionate web developer learning HTML, CSS, and JavaScript.</p>
+    </section>
+
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript (Learning)</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>Projects</h2>
+        <p>Coming Soon!</p>
+    </section>
+
+    <footer>
+        <p>Created by Aaryan Yadav | Week 2 CSS Project</p>
+    </footer>
+</body>
+</html>
