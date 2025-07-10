@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    background: white;
+    color: black;
+    transition: 0.3s;
+    text-align: center;
+}
+.dark-mode {
+    background: #121212;
+    color: white;
+}
+header {
+    padding: 20px;
+    background-color: #333;
+    color: white;
+}
+footer {
+    margin-top: 30px;
+    padding: 10px;
+    background-color: #333;
+    color: white;
+}
